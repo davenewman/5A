@@ -1,3 +1,5 @@
-This program performs a Monte Carlo simulation to calculate pi. The program uses either single or double precision datatypes. The usage is:
+This program performs a Monte Carlo simulation to calculate pi when given a number of digits to obtain after the decimal point and the number of simulations to run and average. The program uses either single or double precision datatypes. Usage is:
 
-./5A <digits of precision> <-s> (for single precision, double precision is default)
+./5A <digits of precision> <number of simulations to average> <any value for single precision, double precision is default>
+
+
